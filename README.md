@@ -4,7 +4,7 @@
 
 🌐 1. Sobre mí
 
-¡Hola! Soy Pedro, estudiante de
+¡Hola! Soy [Pedro], estudiante de
 primer año de Ciberseguridad en la
 Universidad Tecnológica de Panamá (UTP).
 
@@ -40,8 +40,8 @@ Proyectos académicos:
 
 💼 3. CV en LinkedIn
 
-- LinkedIn: https://www.linkedin.com/in/pedrito-undefined-a24946451?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Correo UTP: pedro.zamora@utp.ac.pa
+- LinkedIn: [https://www.linkedin.com/in/pedrito-undefined-a24946451?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- Correo UTP: [pedro.zamora@utp.ac.pa]
 
 "La seguridad en la red empieza con
 una identidad digital transparente,
